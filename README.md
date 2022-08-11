@@ -1,5 +1,3 @@
-[![MasterHead](https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif)]
-
 <h1 align="center">Hi 👋, I'm Tinsae Hailu</h1>
 <h3 align="center">A passionate Flutter and Django developer from Ethiopia</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SandunWebDev/SandunWebDev/main/assets/developer_coding_1.gif">
